@@ -1,0 +1,119 @@
+{
+  "ads_config": {
+    "ad_waterfall": [
+      "admob",
+      "unity"
+    ],
+    "ad_time": 10,
+    "ad_model": [
+      {
+        "name": "admob",
+        "app_id": "ca-app-pub-6393368962123174~9847698180",
+        "banner_id": "ca-app-pub-6393368962123174/7029963151",
+        "popup_id": "ca-app-pub-6393368962123174/6525731974",
+        "reward_id": ""
+      },
+      {
+        "name": "unity",
+        "app_id": "3860357",
+        "banner_id": "banner",
+        "popup_id": "video",
+        "reward_id": "rewardedVideo"
+      }
+    ]
+  },
+  "album_config": {
+    "album": [
+      "nezuko",
+      "tanjirou",
+      "zenitsu",
+      "inosuke",
+      "others"
+    ]
+  },
+  "update_config": {
+    "enable": false,
+    "versionCode": 1,
+    "versionName": "1.0",
+    "title": "Update the new version",
+    "message": "Update the app now to get more photos and fsdf"
+  },
+  "redirect_config": {
+    "enable": false,
+    "title": "sadddd",
+    "message": "Because the appjlfksdjlf please install new app to conitue using",
+    "url": "https://google.com"
+  },
+  "fanpage_config": {
+    "fanpage": [
+      {
+        "link": "https://www.facebook.com/groups/180674429689910",
+        "target": "us",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/180674429689910",
+        "target": "vn",
+        "enable": true
+      },
+      {
+        "link": "https://www.facebook.com/groups/180674429689910",
+        "target": "def",
+        "enable": true
+      }
+    ]
+  },
+  "shopping_config": {
+    "shopping": [
+      {
+        "data_file_url": "",
+        "target": "def",
+        "enable": false,
+        "show_price": true
+      },
+      {
+        "data_file_url": "",
+        "target": "vn",
+        "enable": false,
+        "show_price": true
+      },
+      {
+        "data_file_url": "",
+        "target": "us",
+        "enable": false,
+        "show_price": true
+      }
+    ]
+  },
+  "moreapp_config": {
+    "moreapp": [
+      {
+        "title": "Mini-World Fan Art wallpaper HD 4K",
+        "text": "The best wallpaper app that a Mini World Block Art fan can not ignore",
+        "iconUrl": "https://i.pinimg.com/originals/1e/9d/73/1e9d7318a38273066b18469c3b2ea720.png",
+        "mainImageUrl": "https://i.pinimg.com/originals/90/73/d7/9073d7e6487b9fe393b94fcb0846c3e3.png",
+        "actionUrl": "com.milu.miniworld.wallpaper",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+      {
+        "title": "JoJo Anime Wallpaper HD 4K",
+        "text": "The best wallpaper app that a JoJo fan can not ignore",
+        "iconUrl": "https://i.pinimg.com/originals/e3/6b/fb/e36bfbafa3d7549e718860fb6f0de2f7.png",
+        "mainImageUrl": "https://i.pinimg.com/originals/09/bb/18/09bb188968c5a53978519c8546b0e586.png",
+        "actionUrl": "com.milu.jojo.wallpaper",
+        "stars": 5,
+        "numberOfUser": 100000
+      },
+      {
+        "title": "Zero Two Anime Wallpaper",
+        "text": "The best wallpaper app for Darling in the Franxx fans",
+        "iconUrl": "https://i.pinimg.com/originals/86/12/f7/8612f75c4a984322de5ef7947f6becfd.png",
+        "mainImageUrl": "https://i.pinimg.com/originals/b1/89/74/b189742943019e92f7286b9b4b327d40.png",
+        "actionUrl": "com.milu.zerotwo.wallpaper",
+        "stars": 5,
+        "numberOfUser": 100000
+      }
+    ]
+  }
+}
