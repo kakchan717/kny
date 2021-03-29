@@ -1,23 +1,31 @@
 {
   "ads_config": {
     "ad_waterfall": [
-      "admob",
-      "unity"
+      "facebook",
+      "unity",
+      "admob"
     ],
     "ad_time": 20,
     "ad_model": [
       {
         "name": "admob",
-        "app_id": "ca-app-pub-6393368962123174~9847698180",
-        "banner_id": "ca-app-pub-6393368962123174/7029963151",
-        "popup_id": "ca-app-pub-6393368962123174/6525731974",
-        "reward_id": ""
+        "app_id": "ca-app-pub-4463883562173773~8033051113",
+        "banner_id": "ca-app-pub-4463883562173773/3351570072",
+        "popup_id": "ca-app-pub-4463883562173773/8412325067",
+        "reward_id": "ca-app-pub-4463883562173773/8412325067"
       },
       {
         "name": "unity",
-        "app_id": "3860357",
+        "app_id": "3854303",
         "banner_id": "banner",
         "popup_id": "video",
+        "reward_id": "rewardedVideo"
+      },
+      {
+        "name": "facebook",
+        "app_id": "none",
+        "banner_id": "486294252545927_503710067471012",
+        "popup_id": "486294252545927_503711464137539",
         "reward_id": "rewardedVideo"
       }
     ]
@@ -86,7 +94,7 @@
     ]
   },
   "moreapp_config": {
-   "moreapp": [
+    "moreapp": [
       {
         "title": "Sword Art Online Wallpaper",
         "text": "",
@@ -105,7 +113,6 @@
         "stars": 5,
         "numberOfUser": 100000
       }
-  
     ]
   }
 }
