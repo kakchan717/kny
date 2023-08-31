@@ -3,16 +3,15 @@
     "ad_waterfall": [
       "facebook",
       "unity",
-      "admob"
     ],
-    "ad_time": 20,
+    "ad_time": 30,
     "ad_model": [
       {
-        "name": "admob",
-        "app_id": "ca-app-pub-4463883562173773~8033051113",
-        "banner_id": "ca-app-pub-4463883562173773/3351570072",
-        "popup_id": "ca-app-pub-4463883562173773/8412325067",
-        "reward_id": "ca-app-pub-4463883562173773/8412325067"
+        "name": "facebook",
+        "app_id": "",
+        "banner_id": "486294252545927_503710067471012",
+        "popup_id": "486294252545927_503711464137539",
+        "reward_id": "486294252545927_1058449581997055"
       },
       {
         "name": "unity",
@@ -21,13 +20,7 @@
         "popup_id": "video",
         "reward_id": "rewardedVideo"
       },
-      {
-        "name": "facebook",
-        "app_id": "none",
-        "banner_id": "486294252545927_503710067471012",
-        "popup_id": "486294252545927_503711464137539",
-        "reward_id": "rewardedVideo"
-      }
+      
     ]
   },
   "album_config": {
