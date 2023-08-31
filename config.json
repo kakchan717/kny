@@ -2,7 +2,7 @@
   "ads_config": {
     "ad_waterfall": [
       "facebook",
-      "unity",
+      "unity"
     ],
     "ad_time": 30,
     "ad_model": [
